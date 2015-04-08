@@ -1,0 +1,43 @@
+.wrapper {
+	background-color: #ebd5b3;
+	font-family: 'IM Fell English SC', serif;
+}
+
+h1 {
+	padding-top: 50px;
+}
+
+h1,
+h2,
+p {
+	text-align: center;
+}
+
+p {
+	width: 500px;
+	margin: 0 auto;
+	display: flex;
+}
+
+.question {
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+.answer {
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+
+.answer-list {
+	list-style-type: none;
+	padding-right: 40px;
+}
+
+.bottom-image {
+	margin: 0 auto;
+	display: flex;
+	margin-top: 50px;
+}
