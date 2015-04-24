@@ -1,0 +1,10 @@
+var quiz = [ 
+  { "question": "Who won the Civil War?",
+    "answers" : ["The North", "The South", "The East", "The West"],
+    "correctAnswer" : 0
+  },
+  { "question": "When was the Civil War fought?",
+    "answers" : ["1776", "1861", "1918", "1942"],
+    "correctAnswer" : 1
+  } 
+]
