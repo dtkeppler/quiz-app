@@ -81,4 +81,12 @@ function compareAnswer(userAnswer, correctAnswer) {
   }
 }
 
+$("#question").child().remove();
+$("#question").append('<p>' + quiz[i].question + "</p>");
+
+$("#submit").click()
+
+
+
+
 })
